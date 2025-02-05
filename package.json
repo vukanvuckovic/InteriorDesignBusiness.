@@ -13,7 +13,7 @@
     "@emotion/styled": "^11.14.0",
     "@mui/material": "^6.1.10",
     "iconsax-react": "^0.0.8",
-    "next": "15.0.3",
+    "next": "^16.1.6",
     "primereact": "^10.8.5",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
